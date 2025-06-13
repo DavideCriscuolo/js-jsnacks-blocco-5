@@ -28,5 +28,4 @@ students.forEach((studente) => {
   if (idStude == 2) {
     console.log(studente);
   }
-  return false;
 });
